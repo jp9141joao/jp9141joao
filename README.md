@@ -32,8 +32,8 @@ Delivered as an outsourced Network Support Analyst on the Networks and Connectiv
 ## Featured projects
 
 - **[AimWave](https://github.com/jp9141joao/aimwave)**: 3D first-person shooter built with Unity and C#.
-- **[Easy Trip](https://github.com/jp9141joao/test-easy-trip-prototype-v3)**: travel planning web app in React and TypeScript, my capstone (TCC) project. This repo is an early prototype.
-- **[FAQ Quest](https://github.com/jp9141joao/faq-quest)**: React, TypeScript, Express and SQLite app using the Gemini API.
+- **[Easy Trip (prototype)](https://github.com/jp9141joao/easy-trip-prototype)**: mobile prototype of my capstone (TCC) travel planning app, built with React Native, Expo and TypeScript.
+- **[FAQ Quest](https://github.com/jp9141joao/faq-quest)**: searchable FAQ manager with JSON import/export, built with React, TypeScript and Vite.
 - **[Portfolio](https://github.com/jp9141joao/my-portfolio)**: personal site built with Next.js and Tailwind CSS.
 
 ## Education and recognition
