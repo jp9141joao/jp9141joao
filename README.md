@@ -1,16 +1,48 @@
-## Hi there 👋
+# João Pedro Rosa de Paula
 
-<!--
-**jp9141joao/jp9141joao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · Network Automation · Full-Stack** | Franca, SP, Brazil
 
-Here are some ideas to get you started:
+Software Engineering student at Uni-FACEF (graduating Dec/2026) with 5+ years in IT. I work where infrastructure meets code: I use software to automate, monitor and give visibility to network environments. Fluent English (C1).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*PT-BR: Estudante de Engenharia de Software com mais de 5 anos em TI. Uso código para automatizar, monitorar e dar visibilidade a ambientes de rede.*
+
+## Open to work
+
+Developer, Junior DevOps/SRE, Automation Engineer, Network/NOC and Technical Support roles. Remote or hybrid, in Brazil or abroad.
+
+## What I do
+
+| Area | Tools |
+|---|---|
+| Automation and scripting | Python, JavaScript/TypeScript, SQL, PL/SQL |
+| Frontend | React, Next.js, Vite, Tailwind CSS, shadcn/ui |
+| Backend | Node.js, Express, Spring Boot, Prisma, PostgreSQL, Oracle |
+| Networking and observability | Cisco, TCP/IP, 802.1X, Zabbix, Grafana, ServiceNow |
+| Cloud | AWS (Cloud Foundations certified), Google Cloud |
+
+## Professional highlights
+
+Delivered as an outsourced Network Support Analyst on the Networks and Connectivity team of a large corporate client. The code is private, so these are described here only:
+
+- Python CLI hub for network automation used daily by the team: automated checklist, connectivity tests, flapping log analysis, LAN diagnostics, config backup, 802.1X checks, port status reports and free-IP lookup. Saves 6+ hours of team time per day.
+- Automatic ticket and change request (GMUD) creation from Zabbix alerts, replacing manual registration.
+- Grafana dashboards integrated with Zabbix to monitor Cisco switches, with KPIs, status panels and custom HTML/JavaScript widgets.
+- Network topology visualization (7 sites, 32 switches, 36 access points) with live Zabbix data, four-state status logic and animated SVG elements.
+
+## Featured projects
+
+- **[AimWave](https://github.com/jp9141joao/aimwave)**: 3D first-person shooter built with Unity and C#.
+- **[Easy Trip](https://github.com/jp9141joao/test-easy-trip-prototype-v3)**: travel planning web app in React and TypeScript, my capstone (TCC) project. This repo is an early prototype.
+- **[FAQ Quest](https://github.com/jp9141joao/faq-quest)**: React, TypeScript, Express and SQLite app using the Gemini API.
+- **[Portfolio](https://github.com/jp9141joao/my-portfolio)**: personal site built with Next.js and Tailwind CSS.
+
+## Education and recognition
+
+- B.Sc. Software Engineering, Uni-FACEF (GPA 3.5; best class average in the 3rd semester, 2nd best in the 4th)
+- 3rd place, Uni-FACEF Hackathon 2025 (28 hours, idea to prototype)
+- AWS Academy Graduate: Cloud Foundations
+
+## Contact
+
+- LinkedIn: [joaopedrorosadepaula](https://www.linkedin.com/in/joaopedrorosadepaula)
+- Email: jp9141joao@gmail.com
